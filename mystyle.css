@@ -1,0 +1,195 @@
+#order
+{
+    text-align: center; 
+    color: white;
+}
+
+
+#order1
+{
+    text-align: center; 
+    font-family: cursive; 
+    color: white
+}
+
+div
+    {
+        background-size: 1000px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+#centertable
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#table
+    {
+        text-align: center;
+        color: white; 
+        padding: 10px;
+    }
+
+#planets
+{
+    color: #fff6a3; 
+    padding: 20px
+}
+
+
+#mercury
+{
+    
+    margin-top: 50px;
+    text-align: center; 
+    color: darkblue; 
+    background: rgb(186,167,154);
+    background: radial-gradient(circle, rgba(186,167,154,1) 0%, rgba(169,181,255,1) 100%);
+    font-family: Lucida-Console;
+    font-size: 30px;
+}
+#mimg1
+{
+    margin-left: 20px;
+    margin-right: 85px;
+    margin-top: 30px;
+    transition: 2s;
+}
+
+#venus
+{
+    
+    font-size: 30px;
+    color: #0013d7; 
+    background: rgb(242,92,38);
+    background: radial-gradient(circle, rgba(242,92,38,1) 0%, rgba(136,66,7,1) 100%); 
+    text-align: center;
+    font-family: Lucida-Console;
+}
+
+#vimg1
+{
+    margin-left: 0px;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+#eimg1
+{
+    margin-left: 50px;
+    margin-right: 85px;
+    margin-top: 30px;
+}
+
+#earth
+{
+    margin-top: 20px;
+    font-size: 30px;
+    color: white; 
+    background: rgb(73,75,255);
+    background: radial-gradient(circle, rgba(73,75,255,1) 0%, rgba(17,30,193,1) 34%, rgba(22,115,20,1) 100%);
+    text-align: center;
+    font-family: Lucida-Console;
+}
+
+#marsimg1
+{
+    margin-left: 50px;
+    margin-right: 90px;
+    margin-top: 30px;
+}
+
+
+#mars
+{
+    margin-top: 50px;
+    font-size: 20px;
+    color: #f7f48d; 
+    background: rgb(171,72,0);
+    background: radial-gradient(circle, rgba(171,72,0,1) 0%, rgba(142,10,10,1) 100%);
+    font-family: Lucida-Console; 
+}
+
+#jimg1
+{
+    margin-left: 35px;
+    margin-right: 85px;
+    margin-top: 30px;
+}
+
+#jupiter
+{
+    margin-top: 50px;
+    font-size: 30px;
+    color: #663804; 
+    background: rgb(187,217,232);
+    background: radial-gradient(circle, rgba(187,217,232,1) 0%, rgba(154,244,232,1) 36%, rgba(249,205,179,1) 100%); 
+    text-align: center;
+    font-family: Lucida-Console;
+}
+
+#simg1
+{
+    
+    margin-right: 45px;
+    
+}
+
+#saturn
+{
+    margin-top: 60px;
+    font-size: 30px;
+    color: #574302; 
+    background: rgb(247,222,138);
+    background: radial-gradient(circle, rgba(247,222,138,1) 10%, rgba(130,75,8,1) 100%);
+    text-align: center;
+    font-family: Lucida-Console;
+}
+
+#uimg1
+{
+    
+    margin-right: 55px;
+    
+}
+
+#uranus
+{
+    margin-top: 80px;
+    font-size: 30px;
+    color: #00ab44; 
+    background: rgb(201,251,255);
+    background: radial-gradient(circle, rgba(201,251,255,1) 0%, rgba(148,247,226,1) 23%, rgba(42,171,175,1) 100%); 
+    text-align: center;
+    font-family: Lucida-Console;
+}
+
+#nimg1
+{
+    margin-top: 20px;
+    margin-right: 55px;
+    
+}
+
+#neptune
+{
+    margin-top: 60px;
+    font-size: 30px;
+    color: black; 
+    background: rgb(118,125,255);
+    background: radial-gradient(circle, rgba(118,125,255,1) 16%, rgba(42,66,180,1) 100%); 
+    text-align: center;
+    font-family: Lucida-Console;
+}
+
+
+    
+#video
+    {
+        color: orange; 
+        font-size: 20px;
+    }
